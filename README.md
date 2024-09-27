@@ -2,7 +2,7 @@
 The project used yolov5 and resnet50 models to detect players and jersey information.
 <br>
 
-![](cat1.jpeg)
+![](Result.gif)
 ### How to run
 Prepare a video file with resolution 1280x720
 1. Clone the repository `https://github.com/khoitran2003/tennis.git`
