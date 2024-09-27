@@ -4,8 +4,8 @@ The project used yolov5 and resnet50 models to detect players and jersey informa
 
 ![](Result.gif)
 ### How to run
-Prepare a video file with resolution 1280x720
-1. Clone the repository `https://github.com/khoitran2003/tennis.git`
+Prepare a video file with resolution 1280x720 
+1. Clone the repository `https://github.com/maixuanthuan/Football_Detector.git`
 2. Run `pip install -r requirements.txt` to install packages required
 3. Run `python infer.py <args>` to predict and predicted videos will be saved in results folder
 
